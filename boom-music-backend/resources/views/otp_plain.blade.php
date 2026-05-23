@@ -1,0 +1,1 @@
+Your Boom Music password reset OTP code is: {{ $otp }}. This code will expire in 15 minutes.

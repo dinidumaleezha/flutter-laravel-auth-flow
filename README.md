@@ -1,2 +1,16 @@
-# flutter-laravel-auth-flow
-A premium, minimalist, and highly secure Authentication Flow built with Flutter using Provider for state management and a Laravel API as the backend. The user interface is inspired by the modern Uber UI style, featuring a clean black-and-white aesthetic, sleek input containers, and a smooth user experience.
+# boommusic
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
